@@ -18,15 +18,8 @@ Projeto desenvolvido para o evento Programar para Evoluir no dia 27 de agosto de
 ### Estrutura de arquivos
 
 - README.md
-- index.html
-- /src
-  - /img
-  - /css
-    - style.css
-  - /js
-    - script.js
-  - pages
-    - jogo.html
+- [HTML](https://github.com/OliveerCastro/Mario-Memory/blob/main/html)
+- [SRC](https://github.com/OliveerCastro/Mario-Memory/blob/main/src)
 
 ### Fonte
 
