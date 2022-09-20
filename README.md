@@ -1,4 +1,4 @@
-# Maratona Kenzie => Programar para Evoluir
+# Maratona Kenzie - Programar para Evoluir
 
 Projeto desenvolvido para o evento Programar para Evoluir no dia 27 de agosto de 2022.
 
@@ -47,7 +47,7 @@ Projeto desenvolvido para o evento Programar para Evoluir no dia 27 de agosto de
 
 - [Layout Maratona Kenzie => Programar para Evoluir](https://www.figma.com/file/8Amj3A1JAde5kzDlms5cr0/Maratona-Programa-para-Evoluir?node-id=0%3A1)
 
-## LinkedIn das Instrutoras
+## LinkedIn das Instrutores
 - [Luiz Paulo Reis](https://www.linkedin.com/in/luiz-paulo-reis-cardoso/)
 - [Maria Ferrari](https://www.linkedin.com/in/maria-aparecida-guedes-ferrari/)
 
